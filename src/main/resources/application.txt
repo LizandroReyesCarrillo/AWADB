@@ -1,0 +1,12 @@
+
+server:
+  address: 0.0.0.0
+spring:
+  datasource:
+    username: urd8zydcfdx30awd
+    url: 'jdbc:mysql://urd8zydcfdx30awd:CzdtxPiA2CYVbL7spvHf@bvxmaut9xswrr2v00vsk-mysql.services.clever-cloud.com:3306/bvxmaut9xswrr2v00vsk '
+    password: CzdtxPiA2CYVbL7spvHf
+  jpa:
+    hibernate:
+      ddl-auto: update
+

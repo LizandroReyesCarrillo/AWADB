@@ -1,0 +1,38 @@
+{
+    "nombres":"Carlos Eduardo",
+    "apellidos":"Avila Criollo",
+    "matricula":"A17016322",
+    "promedio":85
+}
+{
+    "nombres":"Jose de la Rosa",
+    "apellidos":"Baeza Perez",
+    "matricula":"A17016344",
+    "promedio":90
+}
+{
+    "nombres":"Leonardo Andres",
+    "apellidos":"Hernandez Lopez",
+    "matricula":"A17016387",
+    "promedio":80
+}
+
+------------------------------Profesores--------------------------------
+{
+    "numeroEmpleado":1,
+    "nombres":"Jose Juan",
+    "apellidos":"Sanchez Perez",
+    "horasClase":10
+}
+{
+    "numeroEmpleado":2,
+    "nombres":"Willian Emiliano",
+    "apellidos":"Santos Martinez",
+    "horasClase":8
+}
+{
+    "numeroEmpleado":3,
+    "nombres":"Gabriel Efren",
+    "apellidos":"Requena Diaz",
+    "horasClase":12
+}

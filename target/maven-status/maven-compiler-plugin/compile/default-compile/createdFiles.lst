@@ -1,0 +1,10 @@
+com\example\demo\DemoApplication.class
+com\example\demo\repositories\AlumnoRepository.class
+com\example\demo\services\ProfesorService.class
+com\example\demo\models\ProfesorModel.class
+com\example\demo\repositories\ProfesorRepository.class
+com\example\demo\controllers\ProfesorController.class
+com\example\demo\models\AlumnoModel.class
+com\example\demo\controllers\AlumnoController.class
+com\example\demo\services\AlumnoService.class
+com\example\demo\ServletInitializer.class
